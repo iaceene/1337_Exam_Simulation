@@ -3,10 +3,41 @@
  ## ExamRank02, 03, 04, 05, 06 & PiscineExam
   ##   👉 VIP Cheate CODE free thanks to SegFault777 😎
  #### Disclaimer: This project is not made by 42School, it's not identical to the proposed exams and does not reflect your exams at 1337 and 42
- ### NEW ExamRank02 available 🥳
- 
+## Overview
+This project requires several dependencies to be installed on your system. Please follow the instructions below to install `clang`, `g++`, `readline` library, and `clang++` on your respective operating system.
 
-<img width="711" alt="Screenshot 2022-09-06 at 17 00 20" src="https://user-images.githubusercontent.com/55356071/188669215-6681228d-e6b5-4229-b177-45d2699e29ae.png">
+## Dependencies
+- `clang`
+- `g++`
+- `readline` library
+- `clang++`
+
+## Installation
+
+### Linux
+
+#### Debian/Ubuntu
+To install the required dependencies on Debian-based systems (like Ubuntu), use the following commands:
+```sh
+sudo apt update
+sudo apt install clang g++ libreadline-dev
+
+#### Arch Linux
+```sh
+sudo pacman -S clang gcc readline
+
+### MAC
+```sh
+brew install llvm
+brew install gcc
+brew install readline
+
+##Verification
+```sh
+clang --version
+g++ --version
+clang++ --version
+
 
 -----
 
@@ -63,24 +94,6 @@
  	$ https://github.com/SegFault777/1337_Exam_Simulation.git
 	$ cd 1337_Exam_Simulation
 	$ cd 1337_Exam && make grade
-# 👮‍♀️ RGPD Information :
- Some data may be collected for the sole purpose of improving the service, for example to check if an error is coming from the student and not from the program. 
-The data that can be collected are : 
-- The host name of your machine.
-- The exam number you choose.
-- Name of exercise, fail or success, current assignement and level.
-
-# Contribution by adding more exercises :
-
-You can contribute by adding new exercises very easily with 42_EXAM. 
-
-📄 Read this documentation: [Contribution DOC](CONTRIBUTING.md)
-
-🥳 If your contribution is accepted, your name will be listed in the ReadMe as a contributor, thanks!
-
-Contributor : pandaero
-              Kuninoto
-              ComlanGiovanni
 
 # Disclaimer for 42 staff :
 
