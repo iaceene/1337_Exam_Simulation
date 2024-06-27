@@ -1,8 +1,9 @@
 # 42_EXAM SegFault777 🎓
  ## All 1337 and 42 exams auto-correct, to practice.
  ## ExamRank02, 03, 04, 05, 06 & PiscineExam
+ ## Every week new exams and subjects
   ##   👉 VIP Cheate CODE free thanks to SegFault777 😎
- #### Disclaimer: This project is not made by 42School, it's not identical to the proposed exams and does not reflect your exams at 1337 and 42
+ #### Disclaimer: This project is not made by 42School, it's not identical to the proposed exams and does not reflect your exams at 42 and 1337
 ## Overview
 This project requires several dependencies to be installed on your system. Please follow the instructions below to install `clang`, `g++`, `readline` library, and `clang++` on your respective operating system.
 
@@ -77,7 +78,7 @@ To install the required dependencies on Debian-based systems (like Ubuntu), use 
 	$ cd 1337_Exam_Simulation
 	$ cd 1337_Exam && make grade
 
-# Disclaimer for 42 staff :
+# Disclaimer for 42/1337 staff :
 
 This project is not identical to the proposed exams and does not reflect 42 official exam. 
 It is only meant to help 42 students to train on some exercises found on Github. 
