@@ -21,24 +21,6 @@ To install the required dependencies on Debian-based systems (like Ubuntu), use 
 ```sh
 sudo apt update
 sudo apt install clang g++ libreadline-dev
-
-#### Arch Linux
-```sh
-sudo pacman -S clang gcc readline
-
-### MAC
-```sh
-brew install llvm
-brew install gcc
-brew install readline
-
-##Verification
-```sh
-clang --version
-g++ --version
-clang++ --version
-
-
 -----
 
 ### ⚠️  This project is available on MAC and LINUX (the real exam will be on Linux) 
