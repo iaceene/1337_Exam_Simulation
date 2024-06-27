@@ -1,8 +1,8 @@
-# 42_EXAM v2 🎓
- ## All 42 exams auto-correct, to practice.
+# 42_EXAM SegFault777 🎓
+ ## All 1337 and 42 exams auto-correct, to practice.
  ## ExamRank02, 03, 04, 05, 06 & PiscineExam
-  ##   👉  42_EXAM is now part of **[GRADEME.FR](https://grademe.fr)** 😎
- #### Disclaimer: This project is not made by 42School, it's not identical to the proposed exams and does not reflect your exams at 42
+  ##   👉 VIP Cheate CODE free thanks to SegFault777 😎
+ #### Disclaimer: This project is not made by 42School, it's not identical to the proposed exams and does not reflect your exams at 1337 and 42
  ### NEW ExamRank02 available 🥳
  
 
@@ -10,7 +10,7 @@
 
 -----
 
-### ⚠️ This project is available on MAC and LINUX (the real exam will be on Linux)
+### ⚠️  This project is available on MAC and LINUX (the real exam will be on Linux) 
 
 -----
 
@@ -18,7 +18,9 @@
 
  
   - [x] New Subjects ExamRank02 APRIL 2022 
-  - [x] Subject drawn at random 
+  - [x] Subject drawn at random
+  - [x] CHEAT code
+  - [x] No data will be sent to 42 
   - [x] Exponential waiting for a correction
   - [x] X Hours maximum 
   - [x] Automatic correction (without internet) 
@@ -47,24 +49,20 @@
    **new_ex** : generate a new exercice on the same level
    
  # 🕶 VIP CHEAT code :
- [Sponsor to become VIP](https://github.com/sponsors/JCluzet)
- OR
- [Contribute to become VIP](CONTRIBUTING.md)
  
  You can contribute by adding new exercises or improving the program 
  
    **gradenow** : Get an instant correction (no grademe cooldown)
-   
-  > Being a sponsor brings VIP on GradeMe and 42_EXAM.
-  
+
   > VIPs also have exactly the same display as the 42 examshell.
   
   > More features coming
 
- # Launch 42_EXAM in ONE COMMAND : 
+ # Launch 42_EXAM USING COMMAND : 
 
- ```bash -c "$(curl https://grademe.fr)"```    --> Visit [Grademe.fr](https://grademe.fr)
- 
+ ```$ https://github.com/SegFault777/1337_Exam_Simulation.git
+ ```$ cd 1337_Exam_Simulation
+ ```$ cd 1337_Exam && make grade
 # 👮‍♀️ RGPD Information :
  Some data may be collected for the sole purpose of improving the service, for example to check if an error is coming from the student and not from the program. 
 The data that can be collected are : 
