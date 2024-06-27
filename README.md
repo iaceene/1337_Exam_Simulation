@@ -9,7 +9,7 @@ This project requires several dependencies to be installed on your system. Pleas
 ## Dependencies
 - `clang`
 - `g++`
-- `readline` library
+- `readline library`
 - `clang++`
 
 ## Installation
@@ -18,9 +18,9 @@ This project requires several dependencies to be installed on your system. Pleas
 
 #### Debian/Ubuntu
 To install the required dependencies on Debian-based systems (like Ubuntu), use the following commands:
-```sh
-sudo apt update
-sudo apt install clang g++ libreadline-dev
+`sudo apt update`
+`sudo apt install clang g++ libreadline-dev`
+
 -----
 
 ### ⚠️  This project is available on MAC and LINUX (the real exam will be on Linux) 
