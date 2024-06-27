@@ -60,9 +60,9 @@
 
  # Launch 42_EXAM USING COMMAND : 
 
- ```$ https://github.com/SegFault777/1337_Exam_Simulation.git
- ```$ cd 1337_Exam_Simulation
- ```$ cd 1337_Exam && make grade
+ 	$ https://github.com/SegFault777/1337_Exam_Simulation.git
+	$ cd 1337_Exam_Simulation
+	$ cd 1337_Exam && make grade
 # 👮‍♀️ RGPD Information :
  Some data may be collected for the sole purpose of improving the service, for example to check if an error is coming from the student and not from the program. 
 The data that can be collected are : 
@@ -89,8 +89,6 @@ It is only meant to help 42 students to train on some exercises found on Github.
 It works simply by doing a DIFF on both versions. 
 All the subjects have been found on Github. During my schooling at 42, this project helped me to understand a lot of notions like how to host a website, working with javascript, php and others.
 This project has been created with the sole purpose of helping students to understand their mistakes and improve themselves. 
-If It’s not the case, I am ready to make changes and corrections on it, 42_EXAM/GradeMe has only a non-lucrative and educational purpose. It is completely free and open-source. 
-
 
 # Your help is welcome
 
