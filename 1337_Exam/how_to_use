@@ -1,0 +1,5 @@
+1 - Make sure you have installed GCC, Clang, G++, and the readline library.
+2 -Run this command: make grade
+3 - Choose your exam.
+4 - Type help to see help options.
+5 - If you want the correction for this exercise, visit my GitHub profile: SegFault777
